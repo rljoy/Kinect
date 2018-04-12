@@ -1,0 +1,42 @@
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\bin\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\bin\Debug\Microsoft.Kinect.dll
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\bin\Debug\Microsoft.Kinect.xml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\MainWindow.baml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\MainWindow.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\App.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.exe
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.8.0\Samples\C#\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\bin\Debug\Microsoft.Kinect.dll
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\bin\Debug\Microsoft.Kinect.xml
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\MainWindow.baml
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\MainWindow.g.cs
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\App.g.cs
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\ronan\Documents\SkeletonBasics-WPF - Test\obj\Debug\SkeletonBasics-WPF.pdb
